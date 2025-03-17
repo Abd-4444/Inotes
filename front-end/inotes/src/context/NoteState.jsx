@@ -3,22 +3,7 @@ import NoteContext from "./NoteContext";
 const NoteState = (props)=>{
 
 const  host = "localhost:3000"
-  // const notel=[
-
-  //   {tittle:"buckchod",
-  //   description:"hello guyz chain pi lo",
-  //   tag:"memes"},
-    
-    
-  //   {tittle:"billionare",
-  //     description:"buy a bugati",
-  //     tag:"memes"},
-      
-  //   {tittle:"buckchod",
-  //     description:"buy me a ferrari",
-  //     tag:"memes"},
-  //   ] 
-
+  
 
 
 
